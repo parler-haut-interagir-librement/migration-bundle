@@ -1,6 +1,6 @@
 {
     "name": "phil/migration-bundle",
-    "description": "phil/migration in Symfony: the migrations of DoctrineMigrationsBundle announce what they bring, and each run is announced once on the chat channels of the configuration",
+    "description": "phil/migration in Symfony: Doctrine migrations announce what they bring, and each migration run is announced once on your chat channels.",
     "license": "MIT",
     "type": "symfony-bundle",
     "keywords": [
@@ -23,7 +23,7 @@
         "php": ">=8.5",
         "doctrine/doctrine-migrations-bundle": "^4.0",
         "doctrine/migrations": "^3.9",
-        "phil/migration": "^0.1@dev",
+        "phil/migration": "^0.1.1@dev",
         "symfony/config": "^8.2",
         "symfony/dependency-injection": "^8.2",
         "symfony/notifier": "^8.2"
